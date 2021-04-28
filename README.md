@@ -1,9 +1,7 @@
-# RedisClient
+# RedisClient - 64位
 
 
 This is a redis client GUI tool written based on Java SWT and Jedis. It's my objective to build the most convenient redis client GUI tool in the world. In the first place, it will facilitate in editing redis data, such as: add, update, delete, search, cut, copy, paste etc.
-
-![My image](https://github.com/caoxinyu/RedisClient/raw/master/src/main/resources/screen.png)
 
 --------
 
@@ -31,15 +29,14 @@ This is a redis client GUI tool written based on Java SWT and Jedis. It's my obj
  	* Support flat view and hierarchy view to list redis data
  	* Support multiple language, now support English and Chinese
 
-
-## Install & run for Linux
+## Install & run for Linux 32 bit
 (For Windows, please switch [branch](https://github.com/caoxinyu/RedisClient/tree/master))
  1. Download the runable jar file [redisclient-linux.x86.1.5.jar](https://github.com/caoxinyu/RedisClient/blob/linux/release/redisclient-linux.x86.1.5.jar?raw=true)
  2. Run the redisclient-linux.x86.1.5.jar, input `java -jar redisclient-linux.x86.1.5.jar`. 
 
-## Donate
- 
-If you find this software useful and would like to support it, you can do so simply by scanning my Alipay two-dimension code and donating whatever you like.
+## Install & run for Linux 64 bit
+ 1. Download the runable jar file [redisclient-linux.x86_64.1.5.jar](https://github.com/xiluhua/redisClient-linux64/blob/master/redisclient-linux.x86_64.1.5.jar?raw=true)
+ 2. Run the redisclient-linux.x86_64.1.5.jar, input `java -jar redisclient-linux.x86_64.1.5.jar`. 
 
-![My code](https://github.com/caoxinyu/RedisClient/raw/master/src/main/resources/code.png)
+
  
